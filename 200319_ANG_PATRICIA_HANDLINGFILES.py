@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 #PRODUCTS DICTIONARY
 products = {
     "americano":{"name":"Americano","price":150.00},
